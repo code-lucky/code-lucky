@@ -1,4 +1,5 @@
-### Hi there! I'm Xavier👋
+### Hi there!👋
+I'm Xavier, a front-end developer from China.
 ```
 class Xavier{
   height: 170cm; 
