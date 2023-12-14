@@ -7,11 +7,11 @@ class Xavier{
   color: white 
 }
 ```
-<detail>
+<details>
 <summary>中文简介</summary>
 
 欢迎来到我的 GitHub 主页😄
-</detail>
+</details>
 
 
 <!--
