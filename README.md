@@ -1,6 +1,6 @@
 ### Hi there! I'm LuckyCode👋
 ```
-#LuckyCode {
+class LuckyCode {
   height: 170cm; 
   display: boy; 
   background: front-end; 
