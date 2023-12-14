@@ -1,6 +1,6 @@
-### Hi there! I'm LuckyCode👋
+### Hi there! I'm Xavier👋
 ```
-class LuckyCode {
+class Xavier{
   height: 170cm; 
   display: boy; 
   background: front-end; 
@@ -11,8 +11,6 @@ class LuckyCode {
 # Bonjour ! 🥖
 
 My name is Valentin Briand. I am a freelance frontend developer living near Paris, France. 🥐
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🛠  Technologies and tools
 
