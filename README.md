@@ -7,6 +7,12 @@ class Xavier{
   color: white 
 }
 ```
+<detail>
+<summary>中文简介</summary>
+
+欢迎来到我的 GitHub 主页😄
+</detail>
+
 
 <!--
 **codennnnn/codennnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
