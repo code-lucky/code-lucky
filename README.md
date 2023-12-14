@@ -15,7 +15,9 @@ class Xavier{
 <details>
 <summary>中文简介</summary>
 
-欢迎来到我的 GitHub 主页😄
+欢迎来到我的 GitHub!😄
+
+我是一名前端开发，目前在深圳。
 </details>
 
 
