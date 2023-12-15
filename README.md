@@ -19,7 +19,10 @@ class Xavier{
 
 我是一名前端开发，目前生活在深圳。
 
-我主要的技术栈是uniapp、vue2、vue3以及jquery
+我主要的技术栈是uniapp、vue2、vue3以及jquery。
+
+目前也在学习nestjs框架，向着全干工程师前进！😄
+
 </details>
 
 
